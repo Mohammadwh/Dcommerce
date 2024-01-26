@@ -20,4 +20,3 @@ class Address(models.Model):
     telephone = models.CharField(max_length=100,blank=True)
     mobile = models.CharField(max_length=100,blank=True)
 
-class
